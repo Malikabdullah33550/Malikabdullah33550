@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abdullah Mudassar</h1>
 <h3 align="center">A DevOps Engineer with experience in MERN stack and CLoud Infrastructure</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=malikabdullah33550&label=Profile%20views&color=0e75b6&style=flat" alt="malikabdullah33550" /> </p>
+<p align="left"> <img src="https://img.freepik.com/premium-photo/devopsdevops-banner-concept-3d-render_507676-2522.jpg?w=740" alt="malikabdullah33550" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malikabdullah33550" alt="malikabdullah33550" /></a> </p>
 
