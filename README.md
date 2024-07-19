@@ -1,3 +1,4 @@
+![](https://img.freepik.com/premium-photo/devopsdevops-banner-concept-3d-render_507676-2522.jpg?w=740)
 <h1 align="center">Hi 👋, I'm Muhammad Abdullah Mudassar</h1>
 <h3 align="center">A DevOps Engineer with experience in MERN stack and CLoud Infrastructure</h3>
 
